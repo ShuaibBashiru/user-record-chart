@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "lastname": "Emmanuel",
+    "othername": "Shuaib",
+    "phone_one": 8103195478,
+    "status_id": 2,
+    "date_created": "2022-07-24"
+  },
+  {
+    "id": 102,
+    "lastname": "Emeka",
+    "othername": "Shuaib",
+    "phone_one": 8172790180,
+    "status_id": 1,
+    "date_created": "2021-07-26"
+  },
+  {
+    "id": 103,
+    "lastname": "Andrew",
+    "othername": "Shuaib",
+    "phone_one": 8176790188,
+    "status_id": 1,
+    "date_created": "2021-07-26"
+  },
+  {
+    "id": 104,
+    "lastname": "Bashiru",
+    "othername": "Shuaib",
+    "phone_one": 8172790181,
+    "status_id": 2,
+    "date_created": "2021-07-26"
+  },
+  {
+    "id": 107,
+    "lastname": "Kunle",
+    "othername": "Shuaib",
+    "phone_one": 8172090181,
+    "status_id": 1,
+    "date_created": "2022-07-26"
+  },
+  {
+    "id": 108,
+    "lastname": "Ayinla",
+    "othername": "Shuaib",
+    "phone_one": 8176790181,
+    "status_id": 1,
+    "date_created": "2022-07-26"
+  },
+  {
+    "id": 112,
+    "lastname": "Adewale",
+    "othername": "Medinat",
+    "phone_one": 2348172790011,
+    "status_id": 1,
+    "date_created": "2022-07-26"
+  },
+  {
+    "id": 113,
+    "lastname": "Oladele",
+    "othername": "Dauda",
+    "phone_one": 2348172790012,
+    "status_id": 1,
+    "date_created": "2022-07-26"
+  },
+  {
+    "id": 114,
+    "lastname": "Akata",
+    "othername": "Chinenye",
+    "phone_one": 2348172790013,
+    "status_id": 1,
+    "date_created": "2022-07-26"
+  },
+  {
+    "id": 115,
+    "lastname": "Kareem",
+    "othername": "Oladele",
+    "phone_one": 2348172790014,
+    "status_id": 1,
+    "date_created": "2021-07-26"
+  },
+  {
+    "id": 116,
+    "lastname": "Benjamin",
+    "othername": "Ayokunle",
+    "phone_one": 2348172790051,
+    "status_id": 1,
+    "date_created": "2021-07-26"
+  },
+  {
+    "id": 117,
+    "lastname": "Wasiu",
+    "othername": "Alao",
+    "phone_one": 2348172790611,
+    "status_id": 1,
+    "date_created": "2022-07-26"
+  },
+  {
+    "id": 118,
+    "lastname": "Ikeduba",
+    "othername": "Philips",
+    "phone_one": 2348172799011,
+    "status_id": 1,
+    "date_created": "2022-07-26"
+  },
+  {
+    "id": 119,
+    "lastname": "Stephen",
+    "othername": "Emeka",
+    "phone_one": 2348172710011,
+    "status_id": 1,
+    "date_created": "2022-07-26"
+  },
+  {
+    "id": 120,
+    "lastname": "Solomon",
+    "othername": "Samson",
+    "phone_one": 2348172791011,
+    "status_id": 1,
+    "date_created": "2022-07-26"
+  },
+  {
+    "id": 121,
+    "lastname": "Agboola",
+    "othername": "Mariam",
+    "phone_one": 2348172744011,
+    "status_id": 1,
+    "date_created": "2022-07-26"
+  },
+  {
+    "id": 126,
+    "lastname": "Bashiru",
+    "othername": "Shuaib",
+    "phone_one": 817279018155,
+    "status_id": 2,
+    "date_created": "2022-07-26"
+  }
+]
